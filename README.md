@@ -26,4 +26,6 @@
 | 조영래 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/Cho-D-YoungRae)|
 | 송성곤 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/Sunggon_Song)|
 | 윤상준 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/Yoon_SangJun)|
-| 목승주 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/sjMOK)|
+| 이채원 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/chaewon)|
+| 최영민 |[Repository]()|
+
