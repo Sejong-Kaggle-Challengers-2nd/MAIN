@@ -8,6 +8,7 @@
 | 번호 | 날짜 | 주제 | 설명 |
 |:---:|:---:|:---:|:---|
 | [1] |2021.03.03| [병원 개/폐업 분류](https://dacon.io/competitions/official/9565/overview/)|직접 구현 |
+| [2] |2021.03.12| [대출 상점 총 매출 예측 경진대회](https://dacon.io/competitions/official/136/overview/description/)|직접 구현 |
 
 
 ## 📌 진행 방식 
@@ -27,5 +28,5 @@
 | 송성곤 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/Sunggon_Song)|
 | 윤상준 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/Yoon_SangJun)|
 | 이채원 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/chaewon)|
-| 최영민 |[Repository]()|
+| 최영민 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/Choi_YoungMin)|
 
