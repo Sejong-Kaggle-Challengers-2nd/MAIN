@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|:---|
 | [1] |2021.03.03 ~ 2021.03.12| [병원 개/폐업 분류](https://dacon.io/competitions/official/9565/overview/)|직접구현. 코드공부. 공부반영 |
 | [2] |2021.03.12 ~ 2021.03.19| [대출 상점 총 매출 예측 경진대회](https://dacon.io/competitions/official/136/overview/description/)|직접 구현, 코드공부 |
-| [3] |2021.03.19 ~ 진행중| [대출 상점 총 매출 예측 경진대회](https://dacon.io/competitions/official/17801/overview/description/)|직접 구현 |
+| [3] |2021.03.19 ~ 진행중| [아파트 경매가격 예측 경진대회](https://dacon.io/competitions/official/17801/overview/description/)|직접 구현 |
 
 
 ## 📌 진행 방식 
