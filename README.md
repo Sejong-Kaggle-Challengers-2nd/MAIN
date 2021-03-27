@@ -39,5 +39,8 @@
 | 이채원 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/chaewon)|
 | 최영민 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/Choi_YoungMin)|
 
+## 📌 Kaggle Study 
 
-
+| 번호 | 날짜 | 주제 | 설명 |
+|:---:|:---:|:---:|:---|
+| [1] |2021.03.29| [XGB Boost 계열 특성](https://github.com/Sejong-Kaggle-Challengers-2nd/Yoon_SangJun/blob/main/Booster.ipynb)|XGB 사용법 + lightXGB, CatBoost 특성 |
