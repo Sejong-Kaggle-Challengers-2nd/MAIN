@@ -39,7 +39,7 @@
 | 이채원 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/chaewon)|
 | 최영민 |[Repository](https://github.com/Sejong-Kaggle-Challengers-2nd/Choi_YoungMin)|
 
-## 📌 Kaggle Study 
+## 📌 모델 공부 
 
 | 번호 | 날짜 | 주제 | 설명 |
 |:---:|:---:|:---:|:---|
