@@ -45,3 +45,4 @@
 | 번호 | 날짜 | 주제 | 설명 |
 |:---:|:---:|:---:|:---|
 | [1] |2021.03.29| [XGB Boost 계열 특성](https://github.com/Sejong-Kaggle-Challengers-2nd/Yoon_SangJun/blob/main/Booster.ipynb)|XGB 사용법 + lightXGB, CatBoost 특성 |
+| [2] |2021.04.04| [범주형 데이터를 인코딩하는 다앙한 방법들](https://github.com/Sejong-Kaggle-Challengers-2nd/Sunggon_Song/blob/master/%EA%B0%9C%EC%9D%B8%EB%B0%9C%ED%91%9C/%EB%9D%BC%EB%B2%A8%20%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%98%20%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95%EB%93%A4.ipynb)|원핫, 라벨, 타깃 등 |
