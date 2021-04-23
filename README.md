@@ -12,6 +12,8 @@
 | [3] |2021.03.19 ~ 2021.03.26| [아파트 경매가격 예측 경진대회](https://dacon.io/competitions/official/17801/overview/description/)|직접 구현, 우승자 코드공부 |
 | [4] |2021.03.26 ~ 2021.04.02| [신용카드 거래 데이터 시각화](https://dacon.io/competitions/official/42473/overview/description/)| 우승자 코드공부 |
 | [5] |2021.04.02 ~ 2021.04.09| [컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235626/overview/description/)| 우승자 코드공부 |
+| [6] |2021.04.09 ~ 2021.04.23 (시험기간 포함)| [제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697/overview/description/)| 우승자 코드공부 |
+| [7] |2021.04.23 ~ 2021.04.30| [소설 작가 분류 AI 경진대회](https://dacon.io/competitions/official/235670/overview/description/)| 우승자 코드공부 |
 
 
 
