@@ -1,4 +1,5 @@
 # Sejong Kaggle Challengers 2nd
+> [1기](https://github.com/Sejong-Kaggle-Challengers/MAIN)와 통합!!
 
 
 ## 📌 Kaggle Study 
